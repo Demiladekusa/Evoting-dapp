@@ -2,7 +2,6 @@
 
 #### Simple election decentralized app to vote between two candidates
 
-### ![GIF](Election-gif.gif)
 
 #### To use:
 
@@ -20,5 +19,3 @@
       - Vote can be casted only once. (This is why the transaction fails when "Account 8" tries to vote twice)
 
 ###### \*used solidity compiler version 0.5.0
-
-#### For any queries reach me at parv3213@gmail.com ❤️
